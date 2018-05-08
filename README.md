@@ -9,4 +9,4 @@ Os dados estão disponíveis publicamente em:<br />
 Nesta etapa, diferencie os tipos de variáveis e quais tratamentos fazer para elas. Para poder alcançar o objetivo do desafio, conecte os dados das duas fontes, e explore descritivamente a sua base criada.<br />
 II.	Prever:  Nesta etapa, escolha algum modelo, implemente e avalie os resultados. <br />
 
-obs: Para a criação do modelo, foram utilizados os dados da cidade canadense do período de março a novembro de 2015 e 2016, de modo que a explicação completa do que foi feito pode ser vista no seguinte link:https://www.linkedin.com/pulse/qual-quantidade-de-bicicletas-alugadas-por-hora-em-de-sena-nassif/
+obs: Para a criação do modelo, foram utilizados os dados da cidade canadense do período de março a novembro de 2015 e 2016, de modo que a explicação completa do que foi feito pode ser vista no arquivo de resultados ou no seguinte link:https://www.linkedin.com/pulse/qual-quantidade-de-bicicletas-alugadas-por-hora-em-de-sena-nassif/
